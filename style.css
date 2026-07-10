@@ -226,3 +226,76 @@ header {
 .get-sub-text2{
   color: #575757;
 }
+
+/* extra part */
+
+.leave-section{
+    padding:85px 8%;
+    background-color: #d0c9c9;
+    margin: 0 80px 0 80px;
+    border-radius: 20px;
+}
+.section-title h2{
+    font-size:48px;
+    font-weight:700;
+    color:#1d2144;
+    text-align: center;
+    margin-bottom: 50px;
+   
+}
+.section-title span{
+    display:block;
+    color:#2563eb;
+    font-size: 35px;
+     
+     
+}
+
+/* 6 times card grid */
+
+.leave-grid{
+    display:grid;
+    grid-template-columns: repeat(6,1fr);
+    gap:25px;
+}
+
+/* inside every Card */
+
+.leave-card{
+    background:#fff;
+    border-radius:18px;
+    padding:35px 25px;
+    text-align:center;
+    border:1px solid #ececff;
+
+}
+
+.leave-card2{
+    background:#231b68;
+    border-radius:18px;
+    padding:35px 25px;
+    text-align:center;
+    border:1px solid #ececff;
+}
+
+.leave-card h3{
+    font-size:22px;
+    margin-bottom:15px;
+    color:#1d2144;
+}
+
+.leave-card p{
+    color:#666;
+    font-size:15px;
+}
+
+.leave-card2 h3{
+    font-size:22px;
+    margin-bottom:15px;
+    color:#f9f9fa;
+}
+
+.leave-card2 p{
+    color:#c1b9b9;
+    font-size:15px;
+}
