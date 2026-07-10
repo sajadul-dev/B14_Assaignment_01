@@ -1,0 +1,2 @@
+give a screanshot to chatgpt.
+prompt i use : Think yourself you are my mentor, in this page , we see something missing part , what i add something relatable. makesure you just give me idea or content not share code .
