@@ -36,7 +36,7 @@ nav {
 }
 .menu ul li a {
   text-decoration: none;
-  color: black;
+  color: #575757;
 }
 
 header {
@@ -356,4 +356,8 @@ header {
     background:#2c3954;
     margin:16px 0;
 
+}
+
+.leave-card2 .leave-card2-cert{
+  margin-top: 10px;
 }
