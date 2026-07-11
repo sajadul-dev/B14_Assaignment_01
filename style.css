@@ -245,10 +245,9 @@ header {
 }
 .section-title span{
     display:block;
-    color:#2563eb;
+    color:#ececff;
     font-size: 35px;
-     
-     
+     text-shadow: 3px 2px 5px #1d2144; 
 }
 
 /* 6 times card grid */
